@@ -1,11 +1,4 @@
-RedEdge Data Process
-  =======
-
- --------------------------------------------------
+https://dlhr.de/13
 
 
-This is the python implementation of the RedEdge Bulk processing & semi realtime mornitoring code.
-This repository based on MicaSense RedEdge and Altum Image Processing(https://github.com/micasense/imageprocessing) algorithm
-
-
-
+Land use and land cover classification with multispectral Sentinel-2 satellite images and TensorFlow
